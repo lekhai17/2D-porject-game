@@ -73,3 +73,12 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Rac tu file nen macOS
+__MACOSX/
+__MACOSX.meta
+.DS_Store
+
+# Nhac ban goc wav, da co ban ogg dung trong game
+/[Aa]ssets/Track/Tracks wav/
+/[Aa]ssets/Track/Tracks wav.meta
