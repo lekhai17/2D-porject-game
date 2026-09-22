@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08bc29f5e8cafe74a8610bb10d25f0e3, type: 3}
+  m_Name: Invader_PhapSu
+  m_EditorClassIdentifier: Assembly-CSharp::KingdomRuins.MinionData
+  displayName: Thuong Binh
+  icon: {fileID: 1628759394, guid: d40a342fbacac494393dafbdc92cff6e, type: 3}
+  prefab: {fileID: 0}
+  khungDung:
+  - {fileID: 1628759394, guid: d40a342fbacac494393dafbdc92cff6e, type: 3}
+  - {fileID: -763601920, guid: d40a342fbacac494393dafbdc92cff6e, type: 3}
+  - {fileID: -1989437491, guid: d40a342fbacac494393dafbdc92cff6e, type: 3}
+  - {fileID: 509884632, guid: d40a342fbacac494393dafbdc92cff6e, type: 3}
+  - {fileID: -530345158, guid: d40a342fbacac494393dafbdc92cff6e, type: 3}
+  - {fileID: -1365894900, guid: d40a342fbacac494393dafbdc92cff6e, type: 3}
+  khungChay:
+  - {fileID: 1481247542, guid: 36647ea8cb6c559469fc9e8df51b26de, type: 3}
+  - {fileID: 1828593961, guid: 36647ea8cb6c559469fc9e8df51b26de, type: 3}
+  - {fileID: -1239618674, guid: 36647ea8cb6c559469fc9e8df51b26de, type: 3}
+  - {fileID: -2127601313, guid: 36647ea8cb6c559469fc9e8df51b26de, type: 3}
+  - {fileID: -2045150543, guid: 36647ea8cb6c559469fc9e8df51b26de, type: 3}
+  - {fileID: -1696448602, guid: 36647ea8cb6c559469fc9e8df51b26de, type: 3}
+  khungDanh:
+  - {fileID: -1466825016, guid: 2f461725edad0f249b1c06dd7c3ebe50, type: 3}
+  - {fileID: 1226631785, guid: 2f461725edad0f249b1c06dd7c3ebe50, type: 3}
+  - {fileID: 1865154393, guid: 2f461725edad0f249b1c06dd7c3ebe50, type: 3}
+  coHinh: 0.6
+  caoThanhMau: 1.1
+  danhXa: 0
+  muiTen: {fileID: 0}
+  faction: 0
+  maxHp: 60
+  damage: 9
+  damageType: 0
+  attackInterval: 1.4
+  attackRange: 1.1
+  moveSpeed: 1.3
+  physicalResist: 0.3
+  magicResist: 0
+  summonResource: 4
+  summonCost: 25
+  meatPerLevel: 5
+  statGrowthPerLevel: 0.25
+  killRewards: []

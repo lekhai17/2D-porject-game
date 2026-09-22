@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d93bd5ccc56ab434cb1cbfb7b1b9ddfc, type: 3}
+  m_Name: Wave_Day1
+  m_EditorClassIdentifier: Assembly-CSharp::KingdomRuins.WaveData
+  waveName: Bay Tieu Quy
+  dayNumber: 1
+  entries:
+  - minion: {fileID: 11400000, guid: ea0c06272e7d35c42a9ca2780ad2b3c9, type: 2}
+    count: 3
+    intervalBetween: 1.4
+    startDelay: 0
+  clearRewards:
+  - type: 4
+    amount: 15
+  - type: 8
+    amount: 5

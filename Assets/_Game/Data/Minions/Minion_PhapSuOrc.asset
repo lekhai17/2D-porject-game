@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08bc29f5e8cafe74a8610bb10d25f0e3, type: 3}
+  m_Name: Minion_PhapSuOrc
+  m_EditorClassIdentifier: Assembly-CSharp::KingdomRuins.MinionData
+  displayName: Hac Cung Thu
+  icon: {fileID: 1442169698, guid: b71127dd229c0b54b84afd4e90881be3, type: 3}
+  prefab: {fileID: 0}
+  khungDung:
+  - {fileID: 1442169698, guid: b71127dd229c0b54b84afd4e90881be3, type: 3}
+  - {fileID: -1281814107, guid: b71127dd229c0b54b84afd4e90881be3, type: 3}
+  - {fileID: 1362494918, guid: b71127dd229c0b54b84afd4e90881be3, type: 3}
+  - {fileID: -1717567083, guid: b71127dd229c0b54b84afd4e90881be3, type: 3}
+  - {fileID: -2032756536, guid: b71127dd229c0b54b84afd4e90881be3, type: 3}
+  - {fileID: 874579248, guid: b71127dd229c0b54b84afd4e90881be3, type: 3}
+  khungChay:
+  - {fileID: 404226414, guid: aa5bbd7871fbec640a4aa6a23e882a33, type: 3}
+  - {fileID: 722362371, guid: aa5bbd7871fbec640a4aa6a23e882a33, type: 3}
+  - {fileID: 2010034562, guid: aa5bbd7871fbec640a4aa6a23e882a33, type: 3}
+  - {fileID: -570887162, guid: aa5bbd7871fbec640a4aa6a23e882a33, type: 3}
+  khungDanh:
+  - {fileID: -1791017582, guid: 9e813b8cefa975948b22ec8723ef32ee, type: 3}
+  - {fileID: -1392582161, guid: 9e813b8cefa975948b22ec8723ef32ee, type: 3}
+  - {fileID: -149111042, guid: 9e813b8cefa975948b22ec8723ef32ee, type: 3}
+  - {fileID: -14236617, guid: 9e813b8cefa975948b22ec8723ef32ee, type: 3}
+  - {fileID: 347682361, guid: 9e813b8cefa975948b22ec8723ef32ee, type: 3}
+  - {fileID: -669742035, guid: 9e813b8cefa975948b22ec8723ef32ee, type: 3}
+  - {fileID: 1711974294, guid: 9e813b8cefa975948b22ec8723ef32ee, type: 3}
+  - {fileID: -1761902867, guid: 9e813b8cefa975948b22ec8723ef32ee, type: 3}
+  coHinh: 0.8
+  caoThanhMau: 1
+  danhXa: 1
+  muiTen: {fileID: 21300000, guid: 169a189b23e3b80439fe1e9bd503ce08, type: 3}
+  faction: 1
+  maxHp: 20
+  damage: 6
+  damageType: 0
+  attackInterval: 1.4
+  attackRange: 3.8
+  moveSpeed: 1.3
+  physicalResist: 0
+  magicResist: 0
+  summonResource: 0
+  summonCost: 10
+  meatPerLevel: 5
+  statGrowthPerLevel: 0.25
+  killRewards:
+  - type: 4
+    amount: 6
+  - type: 8
+    amount: 2

@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08bc29f5e8cafe74a8610bb10d25f0e3, type: 3}
+  m_Name: Invader_ThoSanTinh
+  m_EditorClassIdentifier: Assembly-CSharp::KingdomRuins.MinionData
+  displayName: Cung Thu
+  icon: {fileID: 937162230, guid: d9668d6899c00954094f1eaa6bccf069, type: 3}
+  prefab: {fileID: 0}
+  khungDung:
+  - {fileID: 937162230, guid: d9668d6899c00954094f1eaa6bccf069, type: 3}
+  - {fileID: 1744616978, guid: d9668d6899c00954094f1eaa6bccf069, type: 3}
+  - {fileID: 477742792, guid: d9668d6899c00954094f1eaa6bccf069, type: 3}
+  - {fileID: -1140612681, guid: d9668d6899c00954094f1eaa6bccf069, type: 3}
+  - {fileID: -1522746810, guid: d9668d6899c00954094f1eaa6bccf069, type: 3}
+  - {fileID: 183522276, guid: d9668d6899c00954094f1eaa6bccf069, type: 3}
+  khungChay:
+  - {fileID: -45261985, guid: fda38d8bc290ba64fb8cd370b7668d9f, type: 3}
+  - {fileID: 544949857, guid: fda38d8bc290ba64fb8cd370b7668d9f, type: 3}
+  - {fileID: -1086451231, guid: fda38d8bc290ba64fb8cd370b7668d9f, type: 3}
+  - {fileID: -30325484, guid: fda38d8bc290ba64fb8cd370b7668d9f, type: 3}
+  khungDanh:
+  - {fileID: -826744111, guid: 73dbe19c83717a247a0db4920367cc79, type: 3}
+  - {fileID: 430291807, guid: 73dbe19c83717a247a0db4920367cc79, type: 3}
+  - {fileID: 1091111971, guid: 73dbe19c83717a247a0db4920367cc79, type: 3}
+  - {fileID: 1241743664, guid: 73dbe19c83717a247a0db4920367cc79, type: 3}
+  - {fileID: 49757161, guid: 73dbe19c83717a247a0db4920367cc79, type: 3}
+  - {fileID: -736915500, guid: 73dbe19c83717a247a0db4920367cc79, type: 3}
+  - {fileID: 477624322, guid: 73dbe19c83717a247a0db4920367cc79, type: 3}
+  - {fileID: 553948266, guid: 73dbe19c83717a247a0db4920367cc79, type: 3}
+  coHinh: 0.8
+  caoThanhMau: 1
+  danhXa: 1
+  muiTen: {fileID: 21300000, guid: 266d7edc3f5207f448b7bfc8216f42c6, type: 3}
+  faction: 0
+  maxHp: 24
+  damage: 6
+  damageType: 0
+  attackInterval: 1.3
+  attackRange: 4
+  moveSpeed: 1.5
+  physicalResist: 0
+  magicResist: 0
+  summonResource: 4
+  summonCost: 18
+  meatPerLevel: 5
+  statGrowthPerLevel: 0.25
+  killRewards: []

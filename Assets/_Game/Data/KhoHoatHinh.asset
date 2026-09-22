@@ -1,0 +1,168 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9671574376dd9c54fac790d6e17eb215, type: 3}
+  m_Name: KhoHoatHinh
+  m_EditorClassIdentifier: Assembly-CSharp::KingdomRuins.KhoHoatHinh
+  riuLam:
+  - {fileID: 1267750826, guid: a4dd96819a4926548931b3c5e0444304, type: 3}
+  - {fileID: -1995819910, guid: a4dd96819a4926548931b3c5e0444304, type: 3}
+  - {fileID: -2051308480, guid: a4dd96819a4926548931b3c5e0444304, type: 3}
+  - {fileID: 1647280378, guid: a4dd96819a4926548931b3c5e0444304, type: 3}
+  - {fileID: 718984099, guid: a4dd96819a4926548931b3c5e0444304, type: 3}
+  - {fileID: 1384828078, guid: a4dd96819a4926548931b3c5e0444304, type: 3}
+  cuocLam:
+  - {fileID: -765064102, guid: 1d81d026ff4774942a229d0bf419e5d8, type: 3}
+  - {fileID: -1088277784, guid: 1d81d026ff4774942a229d0bf419e5d8, type: 3}
+  - {fileID: -834250072, guid: 1d81d026ff4774942a229d0bf419e5d8, type: 3}
+  - {fileID: 522928777, guid: 1d81d026ff4774942a229d0bf419e5d8, type: 3}
+  - {fileID: 1257224089, guid: 1d81d026ff4774942a229d0bf419e5d8, type: 3}
+  - {fileID: 171085159, guid: 1d81d026ff4774942a229d0bf419e5d8, type: 3}
+  buaLam:
+  - {fileID: 521872509, guid: ea63d5fba24a5974a9ff6b96e7dadb8d, type: 3}
+  - {fileID: -1457529472, guid: ea63d5fba24a5974a9ff6b96e7dadb8d, type: 3}
+  - {fileID: 2141642994, guid: ea63d5fba24a5974a9ff6b96e7dadb8d, type: 3}
+  daoLam:
+  - {fileID: -470180934, guid: 5ab7829abbcf50242b37d74020ec53fc, type: 3}
+  - {fileID: 1422960195, guid: 5ab7829abbcf50242b37d74020ec53fc, type: 3}
+  - {fileID: -466161664, guid: 5ab7829abbcf50242b37d74020ec53fc, type: 3}
+  - {fileID: -1538268506, guid: 5ab7829abbcf50242b37d74020ec53fc, type: 3}
+  riuNghi:
+  - {fileID: 575181799, guid: f5774c74e9752a34788031b67961f5bf, type: 3}
+  - {fileID: 1424124551, guid: f5774c74e9752a34788031b67961f5bf, type: 3}
+  - {fileID: -266593650, guid: f5774c74e9752a34788031b67961f5bf, type: 3}
+  - {fileID: 1376764727, guid: f5774c74e9752a34788031b67961f5bf, type: 3}
+  - {fileID: -1578666437, guid: f5774c74e9752a34788031b67961f5bf, type: 3}
+  - {fileID: 1092777783, guid: f5774c74e9752a34788031b67961f5bf, type: 3}
+  - {fileID: -663052517, guid: f5774c74e9752a34788031b67961f5bf, type: 3}
+  - {fileID: 1681249632, guid: f5774c74e9752a34788031b67961f5bf, type: 3}
+  cuocNghi:
+  - {fileID: -1281993690, guid: 2c2fe21202a0de1489ac77aa2284020f, type: 3}
+  - {fileID: 1213426732, guid: 2c2fe21202a0de1489ac77aa2284020f, type: 3}
+  - {fileID: 1446837634, guid: 2c2fe21202a0de1489ac77aa2284020f, type: 3}
+  - {fileID: -442063058, guid: 2c2fe21202a0de1489ac77aa2284020f, type: 3}
+  - {fileID: -2019419229, guid: 2c2fe21202a0de1489ac77aa2284020f, type: 3}
+  - {fileID: 952225134, guid: 2c2fe21202a0de1489ac77aa2284020f, type: 3}
+  - {fileID: -1104910332, guid: 2c2fe21202a0de1489ac77aa2284020f, type: 3}
+  - {fileID: -1357025097, guid: 2c2fe21202a0de1489ac77aa2284020f, type: 3}
+  buaNghi:
+  - {fileID: -2092692867, guid: 00674dc8240a1e4418cf3588c6adebae, type: 3}
+  - {fileID: 2145079228, guid: 00674dc8240a1e4418cf3588c6adebae, type: 3}
+  - {fileID: -1994108432, guid: 00674dc8240a1e4418cf3588c6adebae, type: 3}
+  - {fileID: -1913445734, guid: 00674dc8240a1e4418cf3588c6adebae, type: 3}
+  - {fileID: -885853818, guid: 00674dc8240a1e4418cf3588c6adebae, type: 3}
+  - {fileID: 1082551711, guid: 00674dc8240a1e4418cf3588c6adebae, type: 3}
+  - {fileID: 1570548175, guid: 00674dc8240a1e4418cf3588c6adebae, type: 3}
+  - {fileID: -573246823, guid: 00674dc8240a1e4418cf3588c6adebae, type: 3}
+  daoNghi:
+  - {fileID: -1956242519, guid: 9fe0f3c4c2c67f64e9fe5ec986cc2528, type: 3}
+  - {fileID: 988130920, guid: 9fe0f3c4c2c67f64e9fe5ec986cc2528, type: 3}
+  - {fileID: -1250533508, guid: 9fe0f3c4c2c67f64e9fe5ec986cc2528, type: 3}
+  - {fileID: 854647520, guid: 9fe0f3c4c2c67f64e9fe5ec986cc2528, type: 3}
+  - {fileID: 6473652, guid: 9fe0f3c4c2c67f64e9fe5ec986cc2528, type: 3}
+  - {fileID: 1305223025, guid: 9fe0f3c4c2c67f64e9fe5ec986cc2528, type: 3}
+  - {fileID: -1925290211, guid: 9fe0f3c4c2c67f64e9fe5ec986cc2528, type: 3}
+  - {fileID: 248228588, guid: 9fe0f3c4c2c67f64e9fe5ec986cc2528, type: 3}
+  vangNghi:
+  - {fileID: -695802437, guid: fb9dac161b4f6e042ae4b8534de84c02, type: 3}
+  - {fileID: 1388532394, guid: fb9dac161b4f6e042ae4b8534de84c02, type: 3}
+  - {fileID: 1157338926, guid: fb9dac161b4f6e042ae4b8534de84c02, type: 3}
+  - {fileID: 248424242, guid: fb9dac161b4f6e042ae4b8534de84c02, type: 3}
+  - {fileID: -1949755503, guid: fb9dac161b4f6e042ae4b8534de84c02, type: 3}
+  - {fileID: -111307003, guid: fb9dac161b4f6e042ae4b8534de84c02, type: 3}
+  - {fileID: 572966792, guid: fb9dac161b4f6e042ae4b8534de84c02, type: 3}
+  - {fileID: -557997451, guid: fb9dac161b4f6e042ae4b8534de84c02, type: 3}
+  thitNghi:
+  - {fileID: -1411894494, guid: 03c7999a0478b814084f3b8fa3b01bdf, type: 3}
+  - {fileID: -1726187376, guid: 03c7999a0478b814084f3b8fa3b01bdf, type: 3}
+  - {fileID: 1176510722, guid: 03c7999a0478b814084f3b8fa3b01bdf, type: 3}
+  - {fileID: -1014929373, guid: 03c7999a0478b814084f3b8fa3b01bdf, type: 3}
+  - {fileID: -1754408097, guid: 03c7999a0478b814084f3b8fa3b01bdf, type: 3}
+  - {fileID: -1260890442, guid: 03c7999a0478b814084f3b8fa3b01bdf, type: 3}
+  - {fileID: 1955309361, guid: 03c7999a0478b814084f3b8fa3b01bdf, type: 3}
+  - {fileID: 860092103, guid: 03c7999a0478b814084f3b8fa3b01bdf, type: 3}
+  nghiTron:
+  - {fileID: 210099736, guid: a40c92428a23dc14e848eb87accb1391, type: 3}
+  - {fileID: -1659763318, guid: a40c92428a23dc14e848eb87accb1391, type: 3}
+  - {fileID: -588198878, guid: a40c92428a23dc14e848eb87accb1391, type: 3}
+  - {fileID: -1367185981, guid: a40c92428a23dc14e848eb87accb1391, type: 3}
+  - {fileID: -830389793, guid: a40c92428a23dc14e848eb87accb1391, type: 3}
+  - {fileID: -1566539378, guid: a40c92428a23dc14e848eb87accb1391, type: 3}
+  - {fileID: 1998341137, guid: a40c92428a23dc14e848eb87accb1391, type: 3}
+  - {fileID: 1369608, guid: a40c92428a23dc14e848eb87accb1391, type: 3}
+  chayGo:
+  - {fileID: -1077462306, guid: 9dfc0ba1e77f0284e93fd4c9f9daba0b, type: 3}
+  - {fileID: 1015918064, guid: 9dfc0ba1e77f0284e93fd4c9f9daba0b, type: 3}
+  - {fileID: -429972270, guid: 9dfc0ba1e77f0284e93fd4c9f9daba0b, type: 3}
+  - {fileID: -841239492, guid: 9dfc0ba1e77f0284e93fd4c9f9daba0b, type: 3}
+  - {fileID: -1964559684, guid: 9dfc0ba1e77f0284e93fd4c9f9daba0b, type: 3}
+  - {fileID: 1037922463, guid: 9dfc0ba1e77f0284e93fd4c9f9daba0b, type: 3}
+  chayVang:
+  - {fileID: 1696937824, guid: 158e7b0d0501c0d4aaa02f29ace3d95e, type: 3}
+  - {fileID: -2064815210, guid: 158e7b0d0501c0d4aaa02f29ace3d95e, type: 3}
+  - {fileID: 283584184, guid: 158e7b0d0501c0d4aaa02f29ace3d95e, type: 3}
+  - {fileID: -1048779106, guid: 158e7b0d0501c0d4aaa02f29ace3d95e, type: 3}
+  - {fileID: -1304485597, guid: 158e7b0d0501c0d4aaa02f29ace3d95e, type: 3}
+  - {fileID: -657988268, guid: 158e7b0d0501c0d4aaa02f29ace3d95e, type: 3}
+  chayThit:
+  - {fileID: -141538823, guid: bf33dab210aaba849b2069238a7856ac, type: 3}
+  - {fileID: -1736483981, guid: bf33dab210aaba849b2069238a7856ac, type: 3}
+  - {fileID: -873867364, guid: bf33dab210aaba849b2069238a7856ac, type: 3}
+  - {fileID: 927705413, guid: bf33dab210aaba849b2069238a7856ac, type: 3}
+  - {fileID: 989486670, guid: bf33dab210aaba849b2069238a7856ac, type: 3}
+  - {fileID: -530885747, guid: bf33dab210aaba849b2069238a7856ac, type: 3}
+  chayBua:
+  - {fileID: 727114425, guid: 8c988e9acbc00be46ae7d65ab62483ca, type: 3}
+  - {fileID: -1634686462, guid: 8c988e9acbc00be46ae7d65ab62483ca, type: 3}
+  - {fileID: 1558319129, guid: 8c988e9acbc00be46ae7d65ab62483ca, type: 3}
+  - {fileID: 870167954, guid: 8c988e9acbc00be46ae7d65ab62483ca, type: 3}
+  - {fileID: -1492940290, guid: 8c988e9acbc00be46ae7d65ab62483ca, type: 3}
+  - {fileID: 1963557735, guid: 8c988e9acbc00be46ae7d65ab62483ca, type: 3}
+  chayCuoc:
+  - {fileID: -1750866745, guid: 73371800219689343b3e5f1b8ea20592, type: 3}
+  - {fileID: -1537909036, guid: 73371800219689343b3e5f1b8ea20592, type: 3}
+  - {fileID: 1058324099, guid: 73371800219689343b3e5f1b8ea20592, type: 3}
+  - {fileID: 2117754044, guid: 73371800219689343b3e5f1b8ea20592, type: 3}
+  - {fileID: 495183178, guid: 73371800219689343b3e5f1b8ea20592, type: 3}
+  - {fileID: 921758566, guid: 73371800219689343b3e5f1b8ea20592, type: 3}
+  chayTron:
+  - {fileID: -1200750788, guid: d49df7cba2ee5484ea58e588dbdd23f1, type: 3}
+  - {fileID: -266414029, guid: d49df7cba2ee5484ea58e588dbdd23f1, type: 3}
+  - {fileID: 1623222432, guid: d49df7cba2ee5484ea58e588dbdd23f1, type: 3}
+  - {fileID: 2090217395, guid: d49df7cba2ee5484ea58e588dbdd23f1, type: 3}
+  - {fileID: 1895828385, guid: d49df7cba2ee5484ea58e588dbdd23f1, type: 3}
+  - {fileID: 874670137, guid: d49df7cba2ee5484ea58e588dbdd23f1, type: 3}
+  khoi:
+  - {fileID: 1086374332, guid: 04acf1959e5b46943a366b00c36ef831, type: 3}
+  - {fileID: 1403569891, guid: 04acf1959e5b46943a366b00c36ef831, type: 3}
+  - {fileID: 1170583405, guid: 04acf1959e5b46943a366b00c36ef831, type: 3}
+  - {fileID: -2120664121, guid: 04acf1959e5b46943a366b00c36ef831, type: 3}
+  - {fileID: 1195147864, guid: 04acf1959e5b46943a366b00c36ef831, type: 3}
+  - {fileID: 1655197340, guid: 04acf1959e5b46943a366b00c36ef831, type: 3}
+  - {fileID: 859591756, guid: 04acf1959e5b46943a366b00c36ef831, type: 3}
+  - {fileID: -1484904146, guid: 04acf1959e5b46943a366b00c36ef831, type: 3}
+  lua:
+  - {fileID: -1122978044, guid: 676bf98070543c448a9634068ea569f9, type: 3}
+  - {fileID: -1674997231, guid: 676bf98070543c448a9634068ea569f9, type: 3}
+  - {fileID: -559144748, guid: 676bf98070543c448a9634068ea569f9, type: 3}
+  - {fileID: -1228996984, guid: 676bf98070543c448a9634068ea569f9, type: 3}
+  - {fileID: 751560492, guid: 676bf98070543c448a9634068ea569f9, type: 3}
+  - {fileID: -2025777060, guid: 676bf98070543c448a9634068ea569f9, type: 3}
+  - {fileID: 12532436, guid: 676bf98070543c448a9634068ea569f9, type: 3}
+  - {fileID: -61412799, guid: 676bf98070543c448a9634068ea569f9, type: 3}
+  daTang:
+  - {fileID: 21300000, guid: 45616df3604dc2648bd28c80b36963e4, type: 3}
+  - {fileID: 21300000, guid: 4ff45317769dda34daa34b95718038c5, type: 3}
+  - {fileID: 21300000, guid: bfcf9207d789f8f4daf285a6b8ce83af, type: 3}
+  - {fileID: 21300000, guid: 5a4e2e25336dc7c43a79d9bd258d0417, type: 3}
+  vatLieuThuong: {fileID: 2100000, guid: 694d859fe47fd934a87cd6a605ab9a0c, type: 2}
+  vatLieuSang: {fileID: 2100000, guid: 1a189ba450befc741a1c324459ed1a20, type: 2}
+  coTho: 0.85

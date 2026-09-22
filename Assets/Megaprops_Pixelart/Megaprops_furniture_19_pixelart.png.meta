@@ -1,0 +1,795 @@
+fileFormatVersion: 2
+guid: c7f49be65fd5a6d4db7e1fbb7db79d49
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4714670979411477865
+    second: Megaprops_furniture_19_pixelart_0
+  - first:
+      213: -7964424535233977306
+    second: Megaprops_furniture_19_pixelart_1
+  - first:
+      213: -217373200006190633
+    second: Megaprops_furniture_19_pixelart_2
+  - first:
+      213: -5903783094762467896
+    second: Megaprops_furniture_19_pixelart_3
+  - first:
+      213: 5530223215433342244
+    second: Megaprops_furniture_19_pixelart_4
+  - first:
+      213: -4874297966632555005
+    second: Megaprops_furniture_19_pixelart_5
+  - first:
+      213: 6227568563670573523
+    second: Megaprops_furniture_19_pixelart_6
+  - first:
+      213: 3691421468860408331
+    second: Megaprops_furniture_19_pixelart_7
+  - first:
+      213: -7135290764830059932
+    second: Megaprops_furniture_19_pixelart_8
+  - first:
+      213: -8498814569884014998
+    second: Megaprops_furniture_19_pixelart_9
+  - first:
+      213: 2742639976613448335
+    second: Megaprops_furniture_19_pixelart_10
+  - first:
+      213: -952507029212375728
+    second: Megaprops_furniture_19_pixelart_11
+  - first:
+      213: 8976304948409534900
+    second: Megaprops_furniture_19_pixelart_12
+  - first:
+      213: -3194171829870311866
+    second: Megaprops_furniture_19_pixelart_13
+  - first:
+      213: -7506121847245827081
+    second: Megaprops_furniture_19_pixelart_14
+  - first:
+      213: 6369816788559017141
+    second: Megaprops_furniture_19_pixelart_15
+  - first:
+      213: -4313550516968833235
+    second: Megaprops_furniture_19_pixelart_16
+  - first:
+      213: 6448752657048247487
+    second: Megaprops_furniture_19_pixelart_17
+  - first:
+      213: 791545067664505620
+    second: Megaprops_furniture_19_pixelart_18
+  - first:
+      213: -3596447401270371638
+    second: Megaprops_furniture_19_pixelart_19
+  - first:
+      213: -4661524551335412759
+    second: Megaprops_furniture_19_pixelart_20
+  - first:
+      213: -5329499589439644520
+    second: Megaprops_furniture_19_pixelart_21
+  - first:
+      213: 4121586460479584349
+    second: Megaprops_furniture_19_pixelart_22
+  - first:
+      213: -4801322395103111751
+    second: Megaprops_furniture_19_pixelart_23
+  - first:
+      213: -2217782878010685941
+    second: Megaprops_furniture_19_pixelart_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Megaprops_furniture_19_pixelart_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1282
+        width: 296
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79af55f39bf129eb0800000000000000
+      internalID: -4714670979411477865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megaprops_furniture_19_pixelart_1
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1282
+        width: 296
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62429f0251ea87190800000000000000
+      internalID: -7964424535233977306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megaprops_furniture_19_pixelart_2
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1282
+        width: 224
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9e0fde93cbbfcf0800000000000000
+      internalID: -217373200006190633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megaprops_furniture_19_pixelart_3
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 1276
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd0abd0e8c811ea0800000000000000
+      internalID: -5903783094762467896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megaprops_furniture_19_pixelart_4
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 1282
+        width: 464
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42dd58cc6bc4fbc40800000000000000
+      internalID: 5530223215433342244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megaprops_furniture_19_pixelart_5
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 970
+        width: 170
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e257113d30b5cb0800000000000000
+      internalID: -4874297966632555005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megaprops_furniture_19_pixelart_6
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 958
+        width: 302
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d169f31d94cc6650800000000000000
+      internalID: 6227568563670573523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megaprops_furniture_19_pixelart_7
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 964
+        width: 224
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b02eca794409a3330800000000000000
+      internalID: 3691421468860408331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megaprops_furniture_19_pixelart_8
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 970
+        width: 212
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462dd219ada5afc90800000000000000
+      internalID: -7135290764830059932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megaprops_furniture_19_pixelart_9
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 964
+        width: 297
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6626266d252e0a80800000000000000
+      internalID: -8498814569884014998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megaprops_furniture_19_pixelart_10
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 652
+        width: 164
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a84d01780df0620800000000000000
+      internalID: 2742639976613448335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megaprops_furniture_19_pixelart_11
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 652
+        width: 194
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055dbbd47e308c2f0800000000000000
+      internalID: -952507029212375728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megaprops_furniture_19_pixelart_12
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 646
+        width: 134
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b90885cacd329c70800000000000000
+      internalID: 8976304948409534900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megaprops_furniture_19_pixelart_13
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 646
+        width: 158
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6464509e4a50ca3d0800000000000000
+      internalID: -3194171829870311866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megaprops_furniture_19_pixelart_14
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 640
+        width: 224
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f31d16f2f5e4d790800000000000000
+      internalID: -7506121847245827081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megaprops_furniture_19_pixelart_15
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 322
+        width: 218
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b43166de92266850800000000000000
+      internalID: 6369816788559017141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megaprops_furniture_19_pixelart_16
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 340
+        width: 218
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2fbe53b8a03324c0800000000000000
+      internalID: -4313550516968833235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megaprops_furniture_19_pixelart_17
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 334
+        width: 218
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc97b7ef529e7950800000000000000
+      internalID: 6448752657048247487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megaprops_furniture_19_pixelart_18
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 358
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41bfad59b022cfa00800000000000000
+      internalID: 791545067664505620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megaprops_furniture_19_pixelart_19
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 346
+        width: 236
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca17e1b42ad61ec0800000000000000
+      internalID: -3596447401270371638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megaprops_furniture_19_pixelart_20
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 22
+        width: 254
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ebf3ed4e10fe4fb0800000000000000
+      internalID: -4661524551335412759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megaprops_furniture_19_pixelart_21
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 9
+        width: 308
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c1cdc3c50d906b0800000000000000
+      internalID: -5329499589439644520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megaprops_furniture_19_pixelart_22
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 16
+        width: 152
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58f1f77c01d23930800000000000000
+      internalID: 4121586460479584349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megaprops_furniture_19_pixelart_23
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 22
+        width: 224
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b550cb58b64e5db0800000000000000
+      internalID: -4801322395103111751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megaprops_furniture_19_pixelart_24
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 34
+        width: 170
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06ca37093ad831e0800000000000000
+      internalID: -2217782878010685941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Megaprops_furniture_19_pixelart_0: -4714670979411477865
+      Megaprops_furniture_19_pixelart_1: -7964424535233977306
+      Megaprops_furniture_19_pixelart_10: 2742639976613448335
+      Megaprops_furniture_19_pixelart_11: -952507029212375728
+      Megaprops_furniture_19_pixelart_12: 8976304948409534900
+      Megaprops_furniture_19_pixelart_13: -3194171829870311866
+      Megaprops_furniture_19_pixelart_14: -7506121847245827081
+      Megaprops_furniture_19_pixelart_15: 6369816788559017141
+      Megaprops_furniture_19_pixelart_16: -4313550516968833235
+      Megaprops_furniture_19_pixelart_17: 6448752657048247487
+      Megaprops_furniture_19_pixelart_18: 791545067664505620
+      Megaprops_furniture_19_pixelart_19: -3596447401270371638
+      Megaprops_furniture_19_pixelart_2: -217373200006190633
+      Megaprops_furniture_19_pixelart_20: -4661524551335412759
+      Megaprops_furniture_19_pixelart_21: -5329499589439644520
+      Megaprops_furniture_19_pixelart_22: 4121586460479584349
+      Megaprops_furniture_19_pixelart_23: -4801322395103111751
+      Megaprops_furniture_19_pixelart_24: -2217782878010685941
+      Megaprops_furniture_19_pixelart_3: -5903783094762467896
+      Megaprops_furniture_19_pixelart_4: 5530223215433342244
+      Megaprops_furniture_19_pixelart_5: -4874297966632555005
+      Megaprops_furniture_19_pixelart_6: 6227568563670573523
+      Megaprops_furniture_19_pixelart_7: 3691421468860408331
+      Megaprops_furniture_19_pixelart_8: -7135290764830059932
+      Megaprops_furniture_19_pixelart_9: -8498814569884014998
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

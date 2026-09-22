@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d93bd5ccc56ab434cb1cbfb7b1b9ddfc, type: 3}
+  m_Name: Wave_Day3
+  m_EditorClassIdentifier: Assembly-CSharp::KingdomRuins.WaveData
+  waveName: Dao Quan Hac Am
+  dayNumber: 3
+  entries:
+  - minion: {fileID: 11400000, guid: eddb40d3c9ca5a64caa860cf89338f89, type: 2}
+    count: 4
+    intervalBetween: 1
+    startDelay: 0
+  - minion: {fileID: 11400000, guid: d1a2a3ae58a82154c95e2b3aa4888d6f, type: 2}
+    count: 2
+    intervalBetween: 1.8
+    startDelay: 4
+  - minion: {fileID: 11400000, guid: c5e90653d502d974795a67d18d33fa3c, type: 2}
+    count: 1
+    intervalBetween: 0
+    startDelay: 9
+  clearRewards:
+  - type: 4
+    amount: 45
+  - type: 8
+    amount: 15

@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08bc29f5e8cafe74a8610bb10d25f0e3, type: 3}
+  m_Name: Minion_TieuQuy
+  m_EditorClassIdentifier: Assembly-CSharp::KingdomRuins.MinionData
+  displayName: Hac Dan
+  icon: {fileID: -585580969, guid: edfaf359e19d4c6458c0c75a1f6bb7b6, type: 3}
+  prefab: {fileID: 0}
+  khungDung:
+  - {fileID: -585580969, guid: edfaf359e19d4c6458c0c75a1f6bb7b6, type: 3}
+  - {fileID: -485723039, guid: edfaf359e19d4c6458c0c75a1f6bb7b6, type: 3}
+  - {fileID: 319955152, guid: edfaf359e19d4c6458c0c75a1f6bb7b6, type: 3}
+  - {fileID: 2110677687, guid: edfaf359e19d4c6458c0c75a1f6bb7b6, type: 3}
+  - {fileID: 764602227, guid: edfaf359e19d4c6458c0c75a1f6bb7b6, type: 3}
+  - {fileID: -2020489594, guid: edfaf359e19d4c6458c0c75a1f6bb7b6, type: 3}
+  - {fileID: -1270826861, guid: edfaf359e19d4c6458c0c75a1f6bb7b6, type: 3}
+  - {fileID: 877444792, guid: edfaf359e19d4c6458c0c75a1f6bb7b6, type: 3}
+  khungChay:
+  - {fileID: -1256149319, guid: 3f5f6807244eb3541bf0c403c0d98b30, type: 3}
+  - {fileID: 1170280427, guid: 3f5f6807244eb3541bf0c403c0d98b30, type: 3}
+  - {fileID: 369554473, guid: 3f5f6807244eb3541bf0c403c0d98b30, type: 3}
+  - {fileID: 1883447029, guid: 3f5f6807244eb3541bf0c403c0d98b30, type: 3}
+  - {fileID: -2122192598, guid: 3f5f6807244eb3541bf0c403c0d98b30, type: 3}
+  - {fileID: 1495852773, guid: 3f5f6807244eb3541bf0c403c0d98b30, type: 3}
+  khungDanh:
+  - {fileID: 1100129715, guid: 0d1df7c854315664c97d912c91144db4, type: 3}
+  - {fileID: -1524705056, guid: 0d1df7c854315664c97d912c91144db4, type: 3}
+  - {fileID: 549170460, guid: 0d1df7c854315664c97d912c91144db4, type: 3}
+  - {fileID: 785499120, guid: 0d1df7c854315664c97d912c91144db4, type: 3}
+  coHinh: 0.8
+  caoThanhMau: 0.95
+  danhXa: 0
+  muiTen: {fileID: 0}
+  faction: 1
+  maxHp: 18
+  damage: 4
+  damageType: 0
+  attackInterval: 1
+  attackRange: 0.8
+  moveSpeed: 1.4
+  physicalResist: 0
+  magicResist: 0
+  summonResource: 0
+  summonCost: 4
+  meatPerLevel: 5
+  statGrowthPerLevel: 0.25
+  killRewards:
+  - type: 4
+    amount: 3
+  - type: 8
+    amount: 1

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: ThacBot
+  m_EditorClassIdentifier: Unity.2D.Tilemap.Extras::UnityEngine.Tilemaps.AnimatedTile
+  m_AnimatedSprites:
+  - {fileID: -592786024, guid: 024965d5abbbbc14c8e2b41a1e98a3f1, type: 3}
+  - {fileID: 1220287671, guid: 024965d5abbbbc14c8e2b41a1e98a3f1, type: 3}
+  - {fileID: -1060546694, guid: 024965d5abbbbc14c8e2b41a1e98a3f1, type: 3}
+  - {fileID: 2045005220, guid: 024965d5abbbbc14c8e2b41a1e98a3f1, type: 3}
+  - {fileID: 1030178286, guid: 024965d5abbbbc14c8e2b41a1e98a3f1, type: 3}
+  - {fileID: 2118959486, guid: 024965d5abbbbc14c8e2b41a1e98a3f1, type: 3}
+  - {fileID: 1638371052, guid: 024965d5abbbbc14c8e2b41a1e98a3f1, type: 3}
+  - {fileID: -1948585057, guid: 024965d5abbbbc14c8e2b41a1e98a3f1, type: 3}
+  m_MinSpeed: 2.4
+  m_MaxSpeed: 2.4
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0
